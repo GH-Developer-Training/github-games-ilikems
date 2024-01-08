@@ -1,0 +1,9 @@
+#
+# Pattern:
+#
+#file/dicrectory    user
+
+*.md    @ilikems
+
+*      @lloveck
+
